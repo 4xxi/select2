@@ -21,6 +21,5 @@
     ],
     "require": {
         "jquery/jquery": ">=1.4.4"
-    },
-    "target-dir": "Resources/public/js"
+    }
 }
