@@ -1,0 +1,25 @@
+{
+    "name": "4xxi/select2-jquery",
+    "type": "library",
+    "description": "Select2 is a jQuery based replacement for select boxes.",
+    "keywords": ["select", "chosen", "jquery", "plugin"],
+    "homepage": "http://ivaynberg.github.com/select2/",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Igor Vaynberg",
+            "email": "igor.vaynberg@gmail.com",
+            "homepage": "http://ivaynberg.github.com/select2/",
+            "role": "Developer"
+        },
+        {
+            "name": "Aleksandr Beshkenadze",
+            "email": "beshkenadze@gmail.com",
+            "homepage": "http://beshkenadze.net",
+            "role": "Contributor"
+        }
+    ],
+    "require": {
+        "jquery/jquery": ">=1.4.4"
+    }
+}
