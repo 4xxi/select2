@@ -19,7 +19,4 @@
             "role": "Contributor"
         }
     ],
-    "require": {
-        "jquery/jquery": ">=1.4.4"
-    }
 }
